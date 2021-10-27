@@ -4,7 +4,7 @@
 
 The graph below uses this [data set](https://data.world/socialmediadata/tweets-of-congress-october/workspace/file?filename=2017-10-01.json) to demonstrate how many times the states California, New York, Texas, DC, and Florida were mentioned by Congresspeople in their tweets on a single day in October, 2017. The reason I chose to make this graph was to find out which of these oft mentioned states was going through controversy during this period of time. As demonstrated below, Florida was the most mentioned state, followed closely by California. The lowest number of mentions was surprisingly New York. 
 
-![Graph of State Mentions](here is the link)
+![Graph of State Mentions](https://github.com/shreyachatterjee22/CongressDataVizualization/blob/main/State%20Mentions%20Graph.png)
 
 ## Graph 2: Percentages of Male and Female Congresspeople
 
