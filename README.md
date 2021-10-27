@@ -8,7 +8,7 @@ The graph below uses this [data set](https://data.world/socialmediadata/tweets-o
 
 ## Graph 2: Percentages of Male and Female Congresspeople
 
-The graph below uses [data set 1](https://github.com/shreyachatterjee22/CongressDataVizualization/blob/main/role_hor.json) and [data set 2](https://github.com/shreyachatterjee22/CongressDataVizualization/blob/main/role_senate.json) to show the stark gender differences in both houses of Congress. As expected, there is very little doubt that the percent of females relative to the percent of men is very low. This is known data, however, and efforts to increase female representation in Congress are continuing. 
+The graph below uses [data set 1](https://github.com/shreyachatterjee22/CongressDataVizualization/blob/main/role_hor.json) and [data set 2](https://github.com/shreyachatterjee22/CongressDataVizualization/blob/main/role_senate.json) to show the stark gender differences in both houses of Congress. As expected, there is very little doubt that the percent of females relative to the percent of males is very low. This is known data, however, and efforts to increase female representation in Congress are ongoing and achieving success. 
 
 ![Graph of Gender Percentages](https://github.com/shreyachatterjee22/CongressDataVizualization/blob/main/Gender%20Percentages%20Graph.png)
 
